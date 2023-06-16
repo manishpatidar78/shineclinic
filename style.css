@@ -1,0 +1,88 @@
+.container_flex {
+     display: flex;
+     width: 80%;
+     margin: auto;
+
+}
+
+.div1{
+     margin-top: 100px;
+}
+.form1 {
+  background-color: #1aa3ff;
+  width: auto;
+  padding-top: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.table1 {
+  width: 500px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
+
+.formHeading {
+  background-color: #fff;
+  color: red;
+  width: 92%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+td {
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #6600ff;
+}
+
+.td1 {
+  background-color: #e6e6e6;
+}
+
+.info {
+  color: #930bff;
+}
+
+.category {
+  background-color: #e6e6e6;
+  color: red;
+  font-weight: 700;
+}
+
+.form-btn {
+  background-color: red;
+  color: #fff;
+  font-weight: 800;
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.form-btn:hover {
+  background-color: #fff;
+  color: #7c1934;
+}
+
+input[type="select"],
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+input[type="date"] {
+  width: 94%;
+}
+
+select {
+  width: 95%;
+}
+
+/* .table-wrapper {
+  margin: auto;
+} */
+
